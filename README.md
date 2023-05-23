@@ -4,7 +4,7 @@
 My name is Oliver (aco works great as well), and I enjoy using programming both as a tool to solve everyday problems and as a form of personal expression
 
 ## :open_book: currently learning
-Web frontend stuff, mainly React and noSQL DBs.
+Web stuff, mainly React and noSQL DBs.
 
 ## :thought_balloon: wanting to learn
 Working with ML in Python through for example TensorFlow is a long term goal of mine, as well as learning PyGame and generally working more with Python. Learning a lower level language for system software would be cool at some point, but we'll get there when we get there :sweat_smile:
