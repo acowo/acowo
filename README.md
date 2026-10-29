@@ -1,15 +1,73 @@
-# ✨ Hiya! 
+<h1 align="center">Oliver Naper</h1>
 
-## :speech_balloon: about me 
-My name is Oliver (aco works great as well), and I'm currently a CS student at NTNU Trondheim.
-## :open_book: currently learning
-App development with Java, as well as personal projects with JS and Python.
+<p align="center">
+  <em>«Kjend Eder selv.»</em>
+  <br />
+  <sub>— Peter Wessel Zapffe, <a href="https://last-messiah.org/den-sidste-messias/"><i>Den sidste Messias</i></a></sub>
+</p>
 
-## :thought_balloon: wanting to learn
-Working with ML in Python through TensorFlow is a long term goal of mine, as well as generally working more with Python.
+### About
 
-## :globe_with_meridians: languages
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">](https://www.python.org) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="nodejs" width="40" height="40">](https://www.java.com/en/)
+I'm a second-year [Computer Science](https://www.ntnu.no/studier/mtdt) student at NTNU in Trondheim, Norway.
 
-## :hammer_and_wrench: tools
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">](https://nodejs.org) [<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40">](https://firebase.google.com/) 
+Outside of uni, I'm usually at the gym, tweaking my Arch setup, or going down rabbit holes about tech I find interesting. That tends to turn into projects like designing my own [keyboard PCB](https://github.com/acowo/wheelbarrow), building a [CTF website](https://intro-course.vercel.app) with my student club [AbaCord](https://github.com/AbaCord), or writing a wallpaper picker that hot-reloads my application themes whenever I change my wallpaper.
+
+### Areas of interest
+
+| Area | What interests me |
+| :--- | :--- |
+| **Computer Vision** | Image processing, visual perception, and how machines interpret visual information. |
+| **Rendering & Graphics** | Real-time rendering, graphics pipelines, and AI-assisted image reconstruction. |
+| **GPU Architecture** | Parallel computing, memory hierarchies, and the hardware behind modern graphics. |
+| **Linux & Systems** | Lightweight automation, theming, shell scripting, and minimal, composable tools. |
+
+### Tech & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/RISC--V-8A2BE2?style=flat-square&logo=riscv&logoColor=white" alt="RISC-V" />
+</p>
+
+### Coursework
+
+<details open>
+<summary><strong>Currently studying · Autumn 2026</strong></summary>
+
+| Course | Subject |
+| :--- | :--- |
+| [TDT4120](https://www.ntnu.edu/studies/courses/TDT4120) | Algorithms and Data Structures |
+| [TDT4160](https://www.ntnu.edu/studies/courses/TDT4160) | Computer Architecture |
+| [TMA4240](https://www.ntnu.edu/studies/courses/TMA4240) | Statistics |
+| [IT1901](https://www.ntnu.edu/studies/courses/IT1901) | Informatics Project I |
+
+</details>
+
+<details>
+<summary><strong>Previous coursework</strong></summary>
+
+| Course | Subject |
+| :--- | :--- |
+| [TMA4400](https://www.ntnu.edu/studies/courses/TMA4400) | Mathematics 1: Calculus and Linear Algebra |
+| [TMA4412](https://www.ntnu.edu/studies/courses/TMA4412) | Mathematics 2C: Discrete Mathematics |
+| [TMA4422](https://www.ntnu.edu/studies/courses/TMA4422) | Mathematics 3C |
+| [TDT4100](https://www.ntnu.edu/studies/courses/TDT4100) | Object-Oriented Programming |
+| [TDT4109](https://www.ntnu.edu/studies/courses/TDT4109) | Information Technology, Introduction |
+| [TTT4203](https://www.ntnu.edu/studies/courses/TTT4203) | Introduction to Analog and Digital Electronics |
+
+</details>
+
+### Future plans
+
+I'm hoping to specialise in Visual Computing in my third year, and I'm particularly interested in getting hands-on with computer vision, GPU programming, and rendering technology.
+
+---
+
+<p align="center">
+  <sub>Made with 🩷, kitty and breakcore. </sub>
+</p>
