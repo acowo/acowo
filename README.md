@@ -10,7 +10,8 @@
 
 I'm a second-year [Computer Science](https://www.ntnu.no/studier/mtdt) student at NTNU in Trondheim, Norway.
 
-Outside of uni, I'm usually at the gym, tweaking my Arch setup, or going down rabbit holes about tech I find interesting. That tends to turn into projects like designing my own [keyboard PCB](https://github.com/acowo/wheelbarrow), building a [CTF website](https://intro-course.vercel.app) with my student club [AbaCord](https://github.com/AbaCord), or writing a wallpaper picker that hot-reloads my application themes whenever I change my wallpaper.
+Outside of uni, I'm usually at the gym, tweaking my Arch setup, or going down rabbit holes about tech I find interesting. That tends to turn into projects like designing my own [keyboard PCB](https://github.com/acowo/wheelbarrow), building a [CTF website](https://intro-course.vercel.app) with my student club [AbaCord](https://github.com/AbaCord) <img src="assets/Abacord Logo.svg" width="17" alt="AbaCord">
+, or writing a wallpaper picker that hot-reloads my application themes whenever I change my wallpaper.
 
 ### Areas of interest
 
