@@ -17,10 +17,10 @@ Outside of uni, I'm usually at the gym, tweaking my Arch setup, or going down ra
 
 | Area | What interests me |
 | :--- | :--- |
-| **Computer Vision** | Image processing, visual perception, and how machines interpret visual information. |
-| **Rendering & Graphics** | Real-time rendering, graphics pipelines, and AI-assisted image reconstruction. |
-| **GPU Architecture** | Parallel computing, memory hierarchies, and the hardware behind modern graphics. |
-| **Linux & Systems** | Lightweight automation, theming, shell scripting, and minimal, composable tools. |
+| **Software Development** | Building useful applications and tools that also serve as a form of creative expression. |
+| **Systems & Infrastructure** | Operating systems, networking, the importance of reliable communication/infrastructure. |
+| **Hardware & Embedded Systems** | Microcontrollers and PCB design, as well as firmware writing. |
+| **Visual computing** | Computer graphics, AI-enhanced tools like DLSS5 as well as image recognition software. |
 
 ### Tech & tools
 
